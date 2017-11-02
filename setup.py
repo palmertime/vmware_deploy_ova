@@ -31,7 +31,7 @@ setup(
     long_description=readme + '\n\n' + history,
     author="Michael Palmer",
     author_email='palmertime@gmail.com',
-    url='https://github.com/palmertime/deploy_ova',
+    url='https://github.com/palmertime/vmware_deploy_ova',
     packages=find_packages(include=['deploy_ova']),
     entry_points={
         'console_scripts': [
