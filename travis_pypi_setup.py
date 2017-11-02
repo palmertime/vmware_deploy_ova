@@ -20,7 +20,7 @@ except ImportError:
     from urllib.request import urlopen
 
 
-GITHUB_REPO = 'palmertime/deploy_ova'
+GITHUB_REPO = 'palmertime/vmware_deploy_ova'
 TRAVIS_CONFIG_FILE = os.path.join(
     os.path.dirname(os.path.abspath(__file__)), '.travis.yml')
 
